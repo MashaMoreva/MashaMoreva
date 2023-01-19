@@ -1,6 +1,5 @@
 <h3 align="left">Привет, меня Маша зовут!</h3>
 <p align="left">и я начинающий frontend-разработчик</p>
-<h4 align="left">Обо мне:</h4>
 <p align="left">• окончила курс <a href="https://practicum.yandex.ru/frontend-bootcamp/" target="_blank" rel="noreferrer">«Фронтенд-разработчик буткемп»
 </a> на платформе Яндекс.Практикум</p>
 <p align="left">• не остановилась и продолжаю обучение на <a href="https://practicum.yandex.ru/middle-frontend/" target="_blank" rel="noreferrer">«Мидл фронтенд-разработчик»</a></p>
